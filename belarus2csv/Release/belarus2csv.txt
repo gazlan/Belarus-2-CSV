@@ -1,0 +1,7 @@
+-*-   Belarus-2-CSV  *  (c) gazlan@yandex.ru, 2016   -*-
+
+Printed Belarus Registry 2013-08 output converter
+
+Usage: belarus2csv.com wildcards
+
+complains_n_suggestions direct to gazlan@yandex.ru
